@@ -6,7 +6,8 @@ body {
     justify-content: space-evenly;
     height: 100vh;
     margin: 0;
-    background: url('images/image.jpg') repeat;
+    background: rgb(0,39,255);
+    background: linear-gradient(90deg, rgba(0,39,255,1) 0%, rgba(0,255,214,1) 54%, rgba(12,0,255,0.9164040616246498) 100%);
     font-size: 35px;
     color: rgb(255, 0, 174);
 }
